@@ -2,5 +2,5 @@
 
 Various stuff relating deliberated judgments (see the main https://github.com/oliviercailloux/deliberated[article]) to other disciplines.
 
-* https://github.com/oliviercailloux/deliberated-broad/blob/master/Liens%20disciplinaires.adoc[Liens disciplinaires]: a research project proposal I introduced as an application to CNRS in 2014. Contains proposals of research directions to link deliberated judgments to other disciplines.
+* https://github.com/oliviercailloux/deliberated-broad/blob/master/Liens%20disciplinaires.adoc[Liens disciplinaires]: a research project proposal I introduced as an application to CNRS in 2014. Contains proposals of research directions to link deliberated judgments to other disciplines. (With a few minor changes to the wording.)
 
